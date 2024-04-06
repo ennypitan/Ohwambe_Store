@@ -10,9 +10,7 @@ function HeroSection() {
       <div className={styles["flex-container"]}>
         <div className={styles["left-card"]}>
           <p className={styles["hero_tag"]}> Dress to impress</p>
-          <p className={styles["hero_text"]}>
-            At your next Owanbe with our handcrafted traditional attire!
-          </p>
+          <p className={styles["hero_text"]}>handcrafted traditional attire!</p>
           <p className={styles["hero_under_text"]}>
             No allow anyone tell you say Semo and Amala are for special guests.
             Dress like say na you be the chairperson of the occassion.
