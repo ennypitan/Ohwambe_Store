@@ -47,14 +47,16 @@
 }
 .hero_tag {
   text-transform: uppercase;
+  font-size: 1.5rem;
   letter-spacing: 0.4rem;
   font-weight: 500;
-  line-height: 0.5;
+  line-height: 1.5;
 }
 .hero_text {
-  font-size: 4rem;
+  font-size: 4.7rem;
   line-height: 0.9;
   font-weight: 500;
+  margin: 1rem 0;
 }
 .hero_under_text {
   margin: 0.6rem 0;
