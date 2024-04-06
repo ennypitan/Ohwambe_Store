@@ -1,7 +1,6 @@
 import { NavLink, Link } from "react-router-dom";
 import styles from "./navbar.module.css";
 import logo from "../Assets/owanbe.png";
-// import cart from "../Assets/cart.svg";
 import { HiOutlineShoppingCart } from "react-icons/hi";
 
 export default function NavBar() {
