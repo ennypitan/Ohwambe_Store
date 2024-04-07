@@ -1,0 +1,31 @@
+.flex-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  flex-flow: row wrap;
+  margin: auto;
+  position: relative;
+}
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: auto;
+  flex-wrap: wrap;
+}
+.newsletter-section {
+  border: 2px solid black;
+  width: 90%;
+  margin: auto;
+}
+.news__lcard {
+  border: 1px solid red;
+  flex-basis: 40%;
+  flex-grow: 1;
+}
+.news__rcard {
+  border: 1px solid red;
+  flex-basis: 55%;
+  flex-grow: 1;
+}

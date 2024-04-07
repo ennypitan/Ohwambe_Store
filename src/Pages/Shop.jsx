@@ -5,6 +5,7 @@ import Clients from "../Components/ClientsSection/Clients";
 import Popular from "../Components/Popular/Popular";
 import Offer from "../Components/Offer/Offer";
 import NewCollections from "../Components/NewCollections/NewCollections";
+import NewsLetter from "../Components/NewsLetter/NewsLetter";
 
 function Shop() {
   return (
@@ -14,6 +15,7 @@ function Shop() {
       <Popular />
       <Offer />
       <NewCollections />
+      <NewsLetter />
     </>
   );
 }
