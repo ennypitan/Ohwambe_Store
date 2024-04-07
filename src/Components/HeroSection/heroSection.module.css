@@ -11,12 +11,12 @@
   display: flex;
   justify-content: space-between;
   width: 90%;
-  margin: auto;
+  margin: 5rem auto 0 auto;
   flex-wrap: wrap;
 }
 .hero-section {
   background-color: #fbf7f3;
-  height: 90vh;
+  height: 100vh;
 }
 .right-card {
   display: flex;
