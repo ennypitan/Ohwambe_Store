@@ -33,6 +33,10 @@
   }
 }
 .news__rcard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
   border: 1px solid red;
   flex-basis: 55%;
   flex-grow: 1;
@@ -43,4 +47,7 @@
   line-height: 1;
   font-weight: 500;
   color: white;
+}
+.new_form_container {
+  border: 1px solid red;
 }

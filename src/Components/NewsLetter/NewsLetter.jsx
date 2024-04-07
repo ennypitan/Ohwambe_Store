@@ -15,10 +15,12 @@ const NewsLetter = () => {
               Get Exclusive Offers On Your Email
             </div>
             <p>Subscribe to our news later and stay updated</p>
-            <form action="">
-              <input type="text" placeholder="Enter your email" />
-              <input type="submit" value="Subscribe" />
-            </form>
+            <div className={styles["new_form_container"]}>
+              <form action="">
+                <input type="text" placeholder="Enter your email" />
+                <input type="submit" value="Subscribe" />
+              </form>
+            </div>
           </div>
         </div>
       </div>
