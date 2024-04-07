@@ -1,0 +1,47 @@
+.flex-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  flex-flow: row wrap;
+  margin: auto;
+  position: relative;
+}
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: auto;
+  flex-wrap: wrap;
+}
+.footer {
+  margin: 10rem 0;
+  border: 1px solid red;
+}
+.footer__logo {
+  flex-basis: 20%;
+  flex-grow: 1;
+  border: 1px solid red;
+  img {
+    width: 65%;
+  }
+}
+
+.footer__menu {
+  display: flex;
+  justify-content: space-between;
+  flex-basis: 40%;
+  font-weight: 500;
+  flex-grow: 1;
+  border: 1px solid red;
+}
+.social_container {
+  display: flex;
+  color: #5965e1;
+  flex-basis: 20%;
+  flex-grow: 1;
+  li:hover {
+    cursor: pointer;
+    color: #a1a8f2;
+  }
+}
