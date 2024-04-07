@@ -37,7 +37,6 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  border: 1px solid red;
   flex-basis: 55%;
   flex-grow: 1;
 }
@@ -50,6 +49,7 @@
 }
 .new_form_container {
   width: 60%;
+  margin-top: 1rem;
   position: relative;
 }
 .newsletter__input {
@@ -63,4 +63,17 @@ input:focus {
   outline: none;
 }
 .newsletter__btn {
+  position: absolute;
+  height: 2.5rem;
+  width: 6rem;
+  border-radius: 20px;
+  top: 0;
+  right: 0rem;
+  border: none;
+  background: black;
+  color: white;
+  cursor: pointer;
+}
+.newsletter__btn:hover {
+  background-color: rgb(69, 67, 67);
 }
