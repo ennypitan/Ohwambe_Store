@@ -17,8 +17,16 @@ const NewsLetter = () => {
             <p>Subscribe to our news later and stay updated</p>
             <div className={styles["new_form_container"]}>
               <form action="">
-                <input type="text" placeholder="Enter your email" />
-                <input type="submit" value="Subscribe" />
+                <input
+                  type="text"
+                  placeholder="Enter your email"
+                  className={styles["newsletter__input"]}
+                />
+                <input
+                  type="submit"
+                  value="Subscribe"
+                  className={styles["newsletter__btn"]}
+                />
               </form>
             </div>
           </div>
