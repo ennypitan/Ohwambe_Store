@@ -15,13 +15,13 @@
   flex-wrap: wrap;
 }
 .footer {
-  margin: 10rem 0;
-  border: 1px solid red;
+  margin-top: 4rem;
+  background-color: white;
 }
 .footer__logo {
   flex-basis: 20%;
   flex-grow: 1;
-  border: 1px solid red;
+
   img {
     width: 65%;
   }
@@ -33,10 +33,10 @@
   flex-basis: 40%;
   font-weight: 500;
   flex-grow: 1;
-  border: 1px solid red;
 }
 .social_container {
   display: flex;
+  justify-content: flex-end;
   color: #5965e1;
   flex-basis: 20%;
   flex-grow: 1;
