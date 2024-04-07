@@ -21,7 +21,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #626262;
+  /* color: #626262; */
 }
 li {
   list-style-type: none;

@@ -45,3 +45,12 @@
     color: #a1a8f2;
   }
 }
+.under__footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  margin: 1rem auto;
+  text-align: center;
+  border-top: 2px solid rgb(201, 200, 200);
+}
