@@ -21,14 +21,14 @@ let new_collections = [
   },
   {
     id: 3,
-    name: "Exclusive Agbada with Fila",
+    title: "Exclusive Agbada with Fila",
     image: cardImg3,
     new_price: "45,000",
     old_price: "65,000",
   },
   {
     id: 4,
-    name: "Exclusive Agbada with Fila",
+    title: "Exclusive Agbada with Fila",
     image: cardImg4,
     new_price: "45,000",
     old_price: "65,000",
