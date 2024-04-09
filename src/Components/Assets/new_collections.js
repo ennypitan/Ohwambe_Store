@@ -7,14 +7,14 @@ import cardImg5 from "./item_img5.jpg";
 let new_collections = [
   {
     id: 1,
-    name: "Exclusive Agbada with Fila",
+    title: "Exclusive Agbada with Fila",
     image: cardImg1,
     new_price: "45,000",
     old_price: "65,000",
   },
   {
     id: 2,
-    name: "Exclusive Agbada with Fila",
+    title: "Exclusive Agbada with Fila",
     image: cardImg2,
     new_price: "45,000",
     old_price: "65,000",

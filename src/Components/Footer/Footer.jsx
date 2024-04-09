@@ -8,6 +8,18 @@ import {
   FaSquareGithub,
 } from "react-icons/fa6";
 
+// function mk(type, props, children) {
+//   const element = document.createElement(type);
+//   if (props) Object.assign(element, props);
+//   if (children) element.prepend(...children);
+//   return element;
+// }
+
+// return (
+//   mk("form", { id: "form" }),
+//   [mk("input"), mk("button", { type: "submit" }, ["add todo"])]
+// );
+
 const Footer = () => {
   return (
     <>

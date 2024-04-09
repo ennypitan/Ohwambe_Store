@@ -11,16 +11,7 @@ function Popular() {
         <div className={`${styles["flex-row"]} ${styles["item__container"]}`}>
           <div className={styles["flex-container"]}>
             {data_products.map((item, index) => {
-              return (
-                <Item
-                  key={index}
-                  id={item.id}
-                  title={item.name}
-                  image={item.image}
-                  new_price={item.new_price}
-                  old_price={item.old_price}
-                />
-              );
+              return <Item key={index} id={item.id} {...item} />;
             })}
           </div>
         </div>
