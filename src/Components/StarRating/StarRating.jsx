@@ -17,7 +17,7 @@ function StarRating({ rating }) {
   return (
     <div>
       {range(rating).map((star) => {
-        return <FaStar key={crypto.randomUUID()} />;
+        return <FaStar key={crypto.randomUUID()} color="#fe9923" />;
       })}
     </div>
   );
