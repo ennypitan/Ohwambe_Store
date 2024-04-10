@@ -14,6 +14,7 @@ let data_products = [
     image: cardImg1,
     new_price: "45,000",
     old_price: "65,000",
+    rating: 4,
   },
   {
     id: 2,
@@ -21,6 +22,7 @@ let data_products = [
     image: cardImg2,
     new_price: "45,000",
     old_price: "65,000",
+    rating: 4,
   },
   {
     id: 3,
@@ -28,6 +30,7 @@ let data_products = [
     image: cardImg3,
     new_price: "45,000",
     old_price: "65,000",
+    rating: 5,
   },
   {
     id: 4,
@@ -35,6 +38,7 @@ let data_products = [
     image: cardImg4,
     new_price: "45,000",
     old_price: "65,000",
+    rating: 5,
   },
 
   {
@@ -43,6 +47,7 @@ let data_products = [
     image: cardImg5,
     new_price: "45,000",
     old_price: "65,000",
+    rating: 4,
   },
   {
     id: 6,
@@ -50,6 +55,7 @@ let data_products = [
     image: cardImg6,
     new_price: "45,000",
     old_price: "65,000",
+    rating: 4,
   },
   {
     id: 7,
@@ -57,6 +63,7 @@ let data_products = [
     image: cardImg7,
     new_price: "45,000",
     old_price: "65,000",
+    rating: 5,
   },
   {
     id: 8,
@@ -64,6 +71,7 @@ let data_products = [
     image: cardImg8,
     new_price: "45,000",
     old_price: "65,000",
+    rating: 5,
   },
 ];
 export default data_products;

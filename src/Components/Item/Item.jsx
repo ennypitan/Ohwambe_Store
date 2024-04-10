@@ -1,7 +1,8 @@
 import React from "react";
 import styles from "./item.module.css";
+import StarRating from "../StarRating/StarRating";
 
-function Item({ title, image, new_price, old_price }) {
+function Item({ title, image, new_price, old_price, rating }) {
   return (
     <>
       <div className={styles["item__card"]}>
@@ -13,6 +14,7 @@ function Item({ title, image, new_price, old_price }) {
               <p>{new_price}</p>
               <p>{old_price}</p>
             </div>
+            <StarRating rating={rating} />
             <button className={styles["cart__btn"]}>Add to Cart</button>
           </div>
         </div>
