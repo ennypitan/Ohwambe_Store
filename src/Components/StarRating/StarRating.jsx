@@ -40,7 +40,7 @@ function StarRating() {
           </>
         );
       })}
-      <p className={styles["star__tag"]}>the rating is {rating}</p>
+      <p className={styles["star__tag"]}>Rating:{rating}</p>
     </div>
   );
 }
