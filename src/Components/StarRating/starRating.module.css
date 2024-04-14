@@ -3,8 +3,8 @@ input[type="radio"] {
 }
 .star__tag {
   font-size: 0.7rem;
-  font-weight: 700;
-  margin-left: 0.5rem;
+  font-weight: 600;
+  margin-left: 0.6rem;
 }
 
 .star__container {
