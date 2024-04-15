@@ -44,10 +44,10 @@
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  gap: 1.1rem;
+  gap: 1rem;
 }
 .login-btn {
-  padding: 0.3rem 1.1rem;
+  padding: 0.3rem 1rem;
   outline: none;
   border: 1px solid #626262;
   background-color: white;
