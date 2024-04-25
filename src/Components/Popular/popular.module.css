@@ -11,14 +11,14 @@
   width: 90%;
   margin: auto;
   flex-wrap: wrap;
-  gap: 2.1rem;
-  padding: 2.1rem 0;
+  gap: 2rem;
+  padding: 2rem 0;
 }
 .popular-section {
   margin: 2rem 0;
 }
 .popular__title {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   text-align: center;
   font-weight: 500;
   letter-spacing: 0.3rem;
