@@ -79,6 +79,6 @@
 .primary_btn:hover,
 .CTA_btn:hover {
   color: white;
-  border: 1px solid #626262;
+  border: 1.1px solid #626262;
   background-color: #5965e1;
 }
