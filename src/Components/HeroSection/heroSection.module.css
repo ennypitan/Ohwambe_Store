@@ -11,7 +11,7 @@
   display: flex;
   justify-content: space-between;
   width: 90%;
-  margin: 5rem auto 0 auto;
+  margin: 5.1rem auto 0 auto;
   flex-wrap: wrap;
 }
 .hero-section {
@@ -47,10 +47,10 @@
 }
 .hero_tag {
   text-transform: uppercase;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   letter-spacing: 0.4rem;
   font-weight: 500;
-  line-height: 1.5;
+  line-height: 1.6;
 }
 .hero_text {
   font-size: 4.7rem;
