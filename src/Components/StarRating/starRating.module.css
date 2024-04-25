@@ -2,9 +2,9 @@ input[type="radio"] {
   display: none;
 }
 .star__tag {
-  font-size: 0.7rem;
+  font-size: 0.74rem;
   font-weight: 600;
-  margin-left: 0.6rem;
+  margin-left: 0.61rem;
 }
 
 .star__container {
