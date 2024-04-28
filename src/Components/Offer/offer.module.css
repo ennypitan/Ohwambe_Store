@@ -11,8 +11,8 @@
   width: 90%;
   margin: auto;
   flex-wrap: wrap;
-  gap: 2rem;
-  padding: 1rem 0;
+  gap: 2.1rem;
+  padding: 0.1 0;
   background: linear-gradient(180deg, rgb(118, 131, 246) 0%, white 90%);
 }
 .offer__container {
