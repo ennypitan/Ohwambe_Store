@@ -96,7 +96,15 @@ const all_products = [
     old_price: "45,000",
   },
   {
-    id: 12,
+    id: 13,
+    name: "Iro and Buba",
+    category: "kid",
+    image: image_1,
+    new_price: "35,000",
+    old_price: "45,000",
+  },
+  {
+    id: 14,
     name: "Iro and Buba",
     category: "kid",
     image: image_1,
