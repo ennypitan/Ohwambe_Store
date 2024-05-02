@@ -15,6 +15,9 @@ import menImg3 from "./all_men3.jpg";
 import menImg4 from "./all_men4.jpg";
 import menImg5 from "./all_men5.jpg";
 import menImg6 from "./all_men6.jpg";
+import menImg7 from "./all_men7.jpg";
+import menImg8 from "./all_men8.jpg";
+import menImg9 from "./all_men9.jpg";
 
 const all_products = [
   {
