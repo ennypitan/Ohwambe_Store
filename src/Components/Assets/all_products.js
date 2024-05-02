@@ -11,6 +11,8 @@ import kidImg10 from "./all_kids10.jpg";
 import kidImg11 from "./all_kids11.jpg";
 import menImg1 from "./all_men1.jpg";
 import menImg2 from "./all_men2.jpg";
+import menImg3 from "./all_men3.jpg";
+import menImg4 from "./all_men4.jpg";
 
 const all_products = [
   {
