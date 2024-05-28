@@ -288,6 +288,14 @@ const all_products = [
     new_price: "35,000",
     old_price: "45,000",
   },
+  {
+    id: 32,
+    name: "Iro and Buba",
+    category: "kid",
+    image: image_1,
+    new_price: "35,000",
+    old_price: "45,000",
+  },
 ];
 
 export default all_products;
