@@ -305,7 +305,7 @@ const all_products = [
     old_price: "45,000",
   },
   {
-    id: 32,
+    id: 34,
     name: "Iro and Buba",
     category: "kid",
     image: image_1,
